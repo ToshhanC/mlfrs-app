@@ -1,0 +1,6 @@
+*.keystore
+*.jks
+build/
+app/build/
+.gradle/
+local.properties
